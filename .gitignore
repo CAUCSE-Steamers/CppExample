@@ -42,3 +42,5 @@ JsonChecker/Debug/
 *.filters
 
 *.db
+
+\.vs/Json/v15/

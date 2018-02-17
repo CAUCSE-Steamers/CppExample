@@ -78,6 +78,7 @@ bool JsonChecker::isJson() {
 	}
 	return pair.empty();
 }
+/*
 
 int main(void) {
 	JsonChecker json1("example/map1_default.json");
@@ -89,3 +90,4 @@ int main(void) {
 	}
 	return 0;
 }
+*/
